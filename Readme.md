@@ -61,5 +61,5 @@ SocioAgent bridges the gap between Web2 and Web3, enabling seamless interaction 
 
 5. **Use:**
 
-   Use the extension installed in your browser and Client Application to test the SocioAgent.
+   Use the extension installed in your browser "Developer mode" and Client Application to test the SocioAgent.
 
