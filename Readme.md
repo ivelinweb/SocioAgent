@@ -26,3 +26,40 @@ SocioAgent bridges the gap between Web2 and Web3, enabling seamless interaction 
 - **Browser Extension:** SocioAgent as a Web3 extension
 - **Blockchain Networks:** Sonic Blaze testnet
 - **Agent Framework:** CDP AgentKit
+
+
+## 📥 Installation & Setup
+
+### Prerequisites
+
+- [Node.js 23.0.3+](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- [Git](https://git-scm.com/downloads)
+  
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/ivelinweb/SocioAgent.git
+   cd SocioAgent/backend
+   ```
+2. **Install Dependencies:**
+   ```bash
+   npm install
+   ```
+   
+3. **Run the Backend:**
+   ```bash
+   npm run start
+   ```
+4. **Run the Client Application:**
+  ```bash
+   cd SocioAgent/client
+   npm install
+   npm run dev
+   ```
+
+   Open your browser and access the Client Application
+
+5. **Use:**
+
+   Use the extension installed in your browser and Client Application to test the SocioAgent.
+
